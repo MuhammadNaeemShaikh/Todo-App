@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+
+.main{
+    margin: 0 auto;
+    text-align: center;
+    background-color: F0EFE9;
+    box-shadow: 0px 0px 10px gray;
+    max-width: 400px;
+    min-height: 400px;
+    margin-top: 50px;
+}
+
+.main input {
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.main button{
+    padding: 5px;
+    margin-top: 20px;
+
+}
+
+#list li{
+    
+    text-align: start;
+    margin: 20px 20px 20px 20px;
+    list-style-type: circle;
+}
+
+.btn{
+    margin-left: 150px;
+    background-color: coral;
+    color: white;
+
+}
+
+.editBtn{
+    background-color: coral;
+    color: white;
+    margin-left: 3px;
+
+}
